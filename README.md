@@ -1,1 +1,1 @@
-2 Bootstrap tasks with multiple branches
+Bootstrap tasks with multiple branches
