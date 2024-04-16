@@ -1,0 +1,25 @@
+html{
+  scroll-behavior: smooth;
+}
+.bgi {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(./images/home.jpg) no-repeat;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+.bg-calc {
+  height: calc(100vh - 56px);
+}
+.z-index {
+  z-index: 999;
+}
+.ulcolor {
+  color: white;
+}
+.bgcolor1 {
+  background-color: #393939;
+}
+.bgcolor2 {
+  background-color: #4900d5;
+}
